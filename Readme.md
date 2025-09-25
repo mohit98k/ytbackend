@@ -1,4 +1,4 @@
-#yo this is readme just for the professional feel
+
 
 this is my personal note space:-
 
